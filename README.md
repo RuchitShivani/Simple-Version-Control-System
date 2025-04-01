@@ -1,7 +1,9 @@
 Mini Version Control System (VCS)
 Mini VCS is a simple, file-based version control system implemented in Python. It allows users to:
 ✅ Initialize a repository 🏗️
+
 ✅ Create snapshots (save the current state of files) 📸
+
 ✅ Revert to previous snapshots 🔄
 
 🏗 1. Project Structure
@@ -58,7 +60,7 @@ Removes extra files that were not in the snapshot
 ✅ Self-Contained – Works in a single Python script.
 
 📜 5. License
-This project is open-source and free to use! 🚀
+This project is open-source and free to use and extremely easy to implement! 🚀
 
 
 ![Screenshot 2025-03-17 002805](https://github.com/user-attachments/assets/d2a2015c-59af-4f37-ba5d-908054d26c96)
