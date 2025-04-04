@@ -4,7 +4,7 @@ Mini VCS is a simple, file-based version control system implemented in Python. I
 
 ✅ Create snapshots (save the current state of files) 📸
 
-✅ Revert to previous snapshots 🔄
+✅ Revert to previous snapshots
 
 🏗 1. Project Structure
 bash
